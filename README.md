@@ -1,6 +1,6 @@
 # GOOD GRIND FARM
 
-img
+![gif](https://github.com/user-attachments/assets/0c37623e-0adc-433c-a050-d1aed552bf08)
 
 ## Overview
 GOODGRINDFARM is the website of an agricultural business company. Charming 3D characters delightfully introduce the attractive products, activities, and services of the town "Tanne".
